@@ -1,0 +1,345 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 236.22588108038366,
+        "y": 341.05985197404505
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 1433.0812059055916
+          },
+          "nodeIndex": "TestList",
+          "nodeLineageTag": "49a4e5a0-3d59-4caa-b54d-055dabb2def8",
+          "size": {
+            "height": 72,
+            "width": 296.17844460993149
+          },
+          "zIndex": 15,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1411.2109723074554,
+            "y": 241.16361926826369
+          },
+          "nodeIndex": "Calendario",
+          "nodeLineageTag": "b029a351-cfd1-44d2-9fa2-96e7f2d227ab",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 21,
+          "expandedHeight": 541.00018986845134
+        },
+        {
+          "location": {
+            "x": 1155.8680414888013,
+            "y": 1144.2588862228845
+          },
+          "nodeIndex": "Venta",
+          "nodeLineageTag": "2a64086e-ca80-45d2-9b72-0737d93a516f",
+          "size": {
+            "height": 474.78520277189637,
+            "width": 208.49733440545469
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 370.007234842173,
+            "y": 402.77052868064226
+          },
+          "nodeIndex": "Hotel",
+          "nodeLineageTag": "dab7ef4d-0b92-4459-9c78-374f39c9838a",
+          "size": {
+            "height": 218.56774697459298,
+            "width": 189.93078071566208
+          },
+          "zIndex": 24
+        },
+        {
+          "location": {
+            "x": 937.88538040526828,
+            "y": 758.16147039489738
+          },
+          "nodeIndex": "Impresora",
+          "nodeLineageTag": "0b2c2934-cb78-4d85-9bfa-09d46eb63f69",
+          "size": {
+            "height": 152,
+            "width": 165.40213247563611
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 627.16999546940224,
+            "y": 585.4383412105401
+          },
+          "nodeIndex": "POS",
+          "nodeLineageTag": "42ab9b63-482d-4a68-a8b3-9ead20b82405",
+          "size": {
+            "height": 312.11889545238853,
+            "width": 250.28645060508131
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 1642.6448627561658,
+            "y": 1049.2379072763888
+          },
+          "nodeIndex": "Método de pago",
+          "nodeLineageTag": "29816df1-7785-495e-a484-3a7c68d23a20",
+          "size": {
+            "height": 145,
+            "width": 209.12761912419978
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 633.612587226568,
+            "y": 1053.8232728937937
+          },
+          "nodeIndex": "Categoría de artículo",
+          "nodeLineageTag": "afc41ad6-a30b-44be-bd96-deb96b531f3b",
+          "size": {
+            "height": 152.58024430331784,
+            "width": 234
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 1411.1984442963792,
+            "y": 1.7903995067860023
+          },
+          "nodeIndex": "cg_TimeIntelligence",
+          "nodeLineageTag": "47fc8426-ea94-438d-8766-8c1cd32f5576",
+          "size": {
+            "height": 227.38466383909076,
+            "width": 423.69330595646784
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 1126.6367249153802,
+            "y": 0
+          },
+          "nodeIndex": "cg_LablesFromSlicers",
+          "nodeLineageTag": "5c31da92-2396-4260-9b63-c4290ad8886f",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 281.44058169917355,
+            "y": 0
+          },
+          "nodeIndex": "cg_Metric01",
+          "nodeLineageTag": "06f8242f-8e07-465d-8edf-110d7baad6e6",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 9,
+          "expandedHeight": 159.95059570994368
+        },
+        {
+          "location": {
+            "x": 2256.2877179698839,
+            "y": 221.54252974284884
+          },
+          "nodeIndex": "Toggle Chart Labels",
+          "nodeLineageTag": "f087d02c-78cd-4ae7-b424-606cfa6d0078",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 279.432071945093,
+            "y": 79.67355105677575
+          },
+          "nodeIndex": "cg_Metric02",
+          "nodeLineageTag": "98728a6c-3ba8-46fc-a20a-22685055d163",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 11,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 562.72148387909874,
+            "y": 0
+          },
+          "nodeIndex": "cg_Aggregates",
+          "size": {
+            "height": 156.38159835738807,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 280.21530828988767,
+            "y": 158.47920085085042
+          },
+          "nodeIndex": "cg_Metric03",
+          "nodeLineageTag": "9ce8ce49-4020-4ff3-874a-8f281a394a43",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 13,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 279.64833288582105,
+            "y": 236.57242487026195
+          },
+          "nodeIndex": "cg_Metric04",
+          "nodeLineageTag": "153c1aeb-49f7-4de7-a4f8-7f0fa578a063",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 14,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "All Measures",
+          "size": {
+            "height": 701.52308735258464,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 1118.7861180084469,
+            "y": 154.53098933108794
+          },
+          "nodeIndex": "*cg_MetricFormatLabel",
+          "size": {
+            "height": 72,
+            "width": 256.43548963040166
+          },
+          "zIndex": 8,
+          "expandedHeight": 145
+        },
+        {
+          "location": {
+            "x": 1676.4543868764367,
+            "y": 240.87233632401808
+          },
+          "nodeIndex": "Tiempo",
+          "nodeLineageTag": "0d78cade-c297-4870-a600-bc93e0841c00",
+          "size": {
+            "height": 313.811204829374,
+            "width": 152.65079967836346
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1167.2428216012768,
+            "y": 824.74801802006948
+          },
+          "nodeIndex": "Impresora Cierres",
+          "size": {
+            "height": 221.65448117766027,
+            "width": 188.09520192981881
+          },
+          "zIndex": 25
+        },
+        {
+          "location": {
+            "x": 865.52059792267744,
+            "y": 1271.3460182444576
+          },
+          "nodeIndex": "Venta Productos",
+          "size": {
+            "height": 282.3853738512521,
+            "width": 205.94706784600044
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1458.1574507514003,
+            "y": 1306.4208173325871
+          },
+          "nodeIndex": "Venta Pagos",
+          "size": {
+            "height": 205.14285681724209,
+            "width": 198.29626816763675
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 1978.612792024237,
+            "y": 0
+          },
+          "nodeIndex": "Dimensions",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 1168.9328875610311,
+            "y": 344.70126319410974
+          },
+          "nodeIndex": "Estadística",
+          "size": {
+            "height": 178.61054820231368,
+            "width": 174.06873585281892
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 2540.2877179698839,
+            "y": 709.52204449739043
+          },
+          "nodeIndex": "xCalendario new",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 1
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 71.5416952736403,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}

@@ -1,0 +1,17 @@
+EVALUATE
+ROW (
+	"Result",
+CALCULATE (
+        [Precio pagado (€)],
+        Calendario[date id] = 20240513,
+        'POS'[Cadena de negocio]&"/"&'POS'[POS] = "Tigotan/Beach Club",
+        'Método de pago'[Método de pago] = "Cargo habitación"
+    ))
+	
+
+
+EVALUATE
+SUMMARIZE(
+    'Método de pago',
+    'Método de pago'[Método de pago]
+)

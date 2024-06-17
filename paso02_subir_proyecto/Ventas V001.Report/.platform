@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Ventas V001"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "033ae72f-3f0e-4879-a6ae-a883c35f7e9a"
+  }
+}
